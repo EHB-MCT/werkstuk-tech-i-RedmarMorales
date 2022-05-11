@@ -30,11 +30,13 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 
 ## Experience
 
-Leg uit hoe je de experience van de gebruiker vormgaf en waar je nog dingen zou toevoegen (licht, geluid, materiaal, etc)
+- Bij de approach deel zal de gebruiker opluchting voelen, donker zien en heel blij horen. Bij de crisis deel zal de gebruiker angstig voelen en dramatische verandering zien.
+
+- Voor de arduino zal ik een box kunnen maken.
 
 ## Interaction
 
-Ik heb en button opgezet zo kan de gebruiker de lichten aan doen. Maar om de lichten zo lang mogelijk opstaan, de gebruiker moet aan de button vasthouden om de lichten in een loop zou schijnen.
+Ik heb een button opgezet zo kan de gebruiker de lichten aan doen. Maar om de lichten zo lang mogelijk opstaan, de gebruiker moet aan de button vasthouden om de lichten in een loop zou schijnen.
 
 
 
